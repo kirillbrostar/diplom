@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body{
+  font-family: Montserrat,serif;
+}
+.nav-link{
+  color:aqua;
+  --bs-nav-link-color:
+}
+.navbar-nav.nav-link.show{ 
+  color: #45a049;
+}
+
+.navbar-brand img{
+  width: 110px;
+}
+
+.bg-darkk{
+  background-color: #001A35;
+}
+
+.navbar-toggler{
+  background-color: aliceblue;
+}
+
+
+.btn.btn-outline-primary{
+  color: aliceblue;
+  background-color:blue;
+  --bs-btn-active-bg:aliceblue;
+}
+
+.btn.btn-primary{
+  color:blue;
+  background-color:aliceblue;
+}
+
+.btn.btn-primary{
+  margin-right: 10px
+}
+
+
+
+form {
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  padding: 20px;
+  width: 400px;
+  margin-left: 700px;
+  margin-top: 30px;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+legend {
+  color: #333;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"] {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin-bottom: -15px;
+  padding: 5px;
+  width: 100%;
+  background-color:#B4DBFF;
+}
+
+input[type="submit"] {
+  background-color: #214EFF;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn.btn-info{
+  background-color: #214EFF;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 100px;
+  cursor: pointer;
+  text-align: center;
+}
