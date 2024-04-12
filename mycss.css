@@ -1,0 +1,307 @@
+@media screen and (max-width: 1200px); {
+
+}
+
+@media screen and (max-width: 998px); {
+
+}
+
+@media screen and (max-width: 776px); {
+
+}
+
+@media screen and (max-width: 576px); {
+
+}
+
+
+
+
+
+
+
+
+
+/* 
+
+навигационная панель */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body{
+  font-family: Montserrat,serif;
+}
+.nav-link{
+  color: #9DC3D8;
+}
+.navbar-nav .nav-link.active{
+  color: #9DC3D8;
+}
+
+.navbar-brand img{
+  width: 110px;
+}
+
+.bg-darkk{
+  background-color: #001A35;
+}
+
+.navbar-toggler{
+  background-color: aliceblue;
+}
+
+
+.btn.btn-outline-primary{
+  color: aliceblue;
+  background-color:blue;
+  --bs-btn-active-bg:aliceblue;
+}
+
+.btn.btn-primary{
+  color:blue;
+  background-color:aliceblue;
+}
+
+.btn.btn-primary{
+  margin-right: 10px
+}
+
+/* навигационная панель */
+
+
+
+/* основня часть */
+
+.list-conteiner{
+  width: 700px;
+  height: 420px;
+  border-radius: 55px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#214EFF;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 150px;
+  margin-top: 200px;
+}
+
+.textt{
+ margin-top: 130px;
+ font-size: 400%;
+ padding-top:40px;
+ font-weight: 1000;
+ padding-right: 100px;
+ margin-right: 80px;
+}
+
+.textt2{
+  font-size: 180%;
+  color: darkblue;
+  margin-top: 30px;
+}
+
+.list-conteiner2{
+  width: 700px;
+  height: 250px;
+  border-radius: 55px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#214EFF;
+  margin-right: 300px;
+  padding-left: 20px;
+  margin-left: 850px;
+  margin-top: -225px;
+}
+
+.btn.btn-info{
+  background-color: #214EFF;
+  color: azure;
+  border-radius: 55px;
+  width: 450px;
+  height: 10px;
+  text-align: center;
+  font-size: 300%;
+  padding-bottom: 70px;
+  margin-left: 100px;
+  padding-right: 30px;
+  bottom: 20px; 
+}
+
+.btn:hover {
+  background-color:cyan 
+ }
+.list-conteiner2 img{
+  margin-top: -268px;
+  width:500px;
+  margin-left: 80px;
+  
+}
+
+.slide-text{
+  
+  background-color: #D2DFE7;
+}
+
+.tex {
+  font-size: 180%;
+  color: darkblue;
+  margin-top: 30px;
+}
+
+.tex2{
+  font-size: 230%;
+  color: darkblue;
+  margin-top: -5px;
+}
+.tex3{
+  font-size: 150%;
+  color:black;
+}
+
+.list-conteiner3{
+  width: 1100px;
+  height: 238px;
+  border-radius: 75px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#214EFF;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 0px;
+  margin-top: 200px;
+}
+
+.textt2{
+  margin-top: 0px;
+  font-size: 150%;
+}
+.textt5{
+  margin-top: 130px;
+  font-size: 300%;
+  padding-top:40px;
+  font-weight: 1000;
+  padding-right: 100px;
+  margin-right: 80px;
+}
+
+.list-conteiner4{
+  width: 450px;
+  height: 500px;
+  border-radius: 75px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#003667;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 0px;
+  margin-top: -500px;
+  
+}
+
+.textt6{
+  margin-top: 430px;
+  font-size: 200%;
+  padding-top:40px;
+  font-weight: 1000;
+  padding-right: 100px;
+  margin-right: 80px;
+}
+
+.list-conteiner5{
+  width: 450px;
+  height: 500px;
+  border-radius: 75px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#003667;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 490px;
+  margin-top: -930px;
+}
+.te{
+  font-size: 150%;
+}
+.textt7{
+  margin-top: 30px;
+  font-size: 200%;
+  padding-top:40px;
+  font-weight: 1000;
+  padding-right: 100px;
+  margin-right: 80px;
+}
+
+.list-conteiner6{
+  width: 450px;
+  height: 500px;
+  border-radius: 75px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#003667;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 980px;
+  margin-top: -530px;
+}
+.kar2 img{
+  margin-top: 30px;
+  width: 993px;
+  height: 163px;
+}
+.kar3 img{
+  margin-top: 100px;
+  width: 1137px;
+  height: 147px;
+}
+.kar4 img{
+  width: 500px;
+  margin-left: 1100px;
+  margin-top: -500px;
+}
+
+.tex333{
+  text-align: center;
+  color:#FFFFFF;
+  font-size: 150%;
+}
+/* служебная информация */
+.conteiner-fluid{
+ background-color:#001A35;
+}
+.tex123{
+  margin-left: 600px;
+}
+.tex124{
+  margin-left: 300px;
+}
+.tex125{
+  margin-left: 300px;
+}
+.tex126{
+  margin-left: 500px;
+  color:#FFFFFF;
+  font-size: 150%;
+  margin-top: -40px;
+}
+.tex77{
+  margin-left: 440px;
+}
+.tex127{
+  margin-left: 1100px;
+  color:#FFFFFF;
+  font-size: 150%;
+  margin-top: -50px;
+}
+.tex78{
+  margin-left: 1040px;
+}
+.tex1234{
+  text-align:right;
+  color:#FFFFFF;
+  font-size: 150%;
+}
