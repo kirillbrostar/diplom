@@ -1,0 +1,148 @@
+@media screen and (max-width: 1200px); {
+
+}
+
+@media screen and (max-width: 998px); {
+
+}
+
+@media screen and (max-width: 776px); {
+
+}
+
+@media screen and (max-width: 576px); {
+
+}
+
+
+
+
+
+
+
+
+
+/* 
+
+навигационная панель */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body{
+  font-family: Montserrat,serif;
+}
+.nav-link{
+  color: #9DC3D8;
+}
+.navbar-nav .nav-link.active{
+  color: #9DC3D8;
+}
+
+.navbar-brand img{
+  width: 110px;
+}
+
+.bg-darkk{
+  background-color: #001A35;
+}
+
+.navbar-toggler{
+  background-color: aliceblue;
+}
+
+
+.btn.btn-outline-primary{
+  color: aliceblue;
+  background-color:blue;
+  --bs-btn-active-bg:aliceblue;
+}
+
+.btn.btn-primary{
+  color:blue;
+  background-color:aliceblue;
+}
+
+.btn.btn-primary{
+  margin-right: 10px
+}
+
+/* навигационная панель */
+
+
+
+/* основня часть */
+
+.list-conteiner{
+  width: 700px;
+  height: 500px;
+  border-radius: 55px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#214EFF;
+  margin-right: 300px;
+  /* padding-left: 20px; */
+  margin-left: 150px;
+  margin-top: 200px;
+}
+
+.textt{
+ margin-top: 130px;
+ font-size: 400%;
+ padding-top:40px;
+ font-weight: 1000;
+ padding-right: 100px;
+ margin-right: 80px;
+}
+
+.textt2{
+  font-size: 180%;
+  color: darkblue;
+  margin-top: 30px;
+}
+
+.list-conteiner2{
+  width: 700px;
+  height: 250px;
+  border-radius: 55px;
+  background-color: white;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  color:#214EFF;
+  margin-right: 300px;
+  padding-left: 20px;
+  margin-left: 850px;
+  margin-top: -225px;
+}
+
+.btn.btn-info{
+  background-color: #214EFF;
+  color: azure;
+  border-radius: 55px;
+  width: 450px;
+  height: 10px;
+  text-align: center;
+  font-size: 300%;
+  padding-bottom: 70px;
+  margin-left: 100px;
+  padding-right: 30px;
+  bottom: 20px; 
+}
+
+.btn:hover {
+  background-color:cyan 
+ }
+.list-conteiner2 img{
+  margin-top: -268px;
+  width:500px;
+  margin-left: 80px;
+  
+}
+
+.slide-text{
+  margin: auto auto;
+}
+
+.col-lg-6.col-md-6{
+ background-color: #9DC3D8;
+}
+
